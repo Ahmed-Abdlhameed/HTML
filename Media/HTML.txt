@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        (*) <title>Hello!</title> <!-- This is the title of the page -->
+        (*) <meta charset="UTF-8" /> <!-- This is for the browser to understand the arabic & other languages -->
+        (*) <meta name="description" content="the description of the page" /> <!-- This is the description of the page -->
+        <link rel="stylesheet" href=""> <!-- For linking an external CSS file and this way is better than the next one -->
+        <style>
+            <!-- Writing the CSS script in the same HTML page -->
+        </style>
+    </head>
+        <body>
+        [***] SEPERATE TAGS:-
+                (*) <h1>, <h2>, <h3>, <h4>, <h5>, <h6> <!-- Used to control the font size -->
+                -> EX: <h1>Hello!</h1>
+
+                (*) <p> <!-- Used for paragraph -->
+                -> EX: <p>Hello!</p>
+
+                <p contenteditable="true">the paragraph<p> <!-- makes the paragraph editable -->
+
+                (*) <b> <!-- Used to make the font BOLD -->
+                -> EX: <b>Hello!</b>
+
+                (*) <strong> <!-- Same as <b>, but this is an important text more than <b> -->
+                -> EX: <strong>Hello!</strong>
+
+                (*) <i> <!-- Used to make the font italic -->
+                -> EX: <i>Hello!</i>
+
+                (*) <em> <!-- Same as <i>, but this is an important text more than <i> -->
+
+                (*) <mark> <!-- Used to mark the text selected like highlighter -->
+                -> EX: <mark>Hello!</mark>
+
+                (*) <u> <!-- Used to underline the selected text -->
+                -> EX: <u>Hello!</u>
+
+                (*) <small> <!-- Used to make the selected text smaller than the normal text  -->
+                -> EX: <small>Hello!</small>
+
+                (*) <del> <!-- Used to make a line on the selected text like it's deleted -->
+                -> EX: <del>Hello!</del>
+
+                (*) <sub> <!-- Used for chemical equations or any thing you want to type something down the normal line -->
+                -> EX: <p>h<sub>2</sub>o</p>
+
+                (*) <sup> <!-- Used in the mathmatical equations to type the power of number
+                        or any thing you want it to be above the noraml line of code -->
+                -> EX: <p>2<sup>2</sup></p>
+____________________________________________________________________________________________________________________
+        [***] LINKING SITE:-
+                (*) <a href> element:-
+                (1) <a href="link of site">name of site</a> <!-- Used to put link in the page & open it in the same page -->
+                -> EX: <a href="https//google.com">Google</a>
+
+                (2) <a href="link of site" target="_blank">name of site</a> <!-- Used to open link in a new page -->
+                -> EX:<a href="https//google.com" target="_blank">Google</a>
+
+                (3) <a href="link of site" target="_blank" title="note on the linked site">name of site</a> 
+                <!-- Used to show note on the name of site when standing on it with mouse -->
+                -> EX: <a href="https//google.com" target="_blank" title="Go to Google">Google</a>
+
+                (4) <a href="#id name" title="note on the linked paragraph">name of paragraph</a> 
+                <!-- Used to go to a paragraph in your page -->
+                <p id="id name">text</a>
+                ->EX:<a href="#hi" title="hi how are you">hi</a>
+                <p id="hi">hi paragraph text</a>
+
+                (5) <a href="mailto:examble@gmail.com">Contact Us</a> <!-- Used to link the email directly -->
+                -> EX: <a href="mailto:ahmed@instagram.com">Follow Us on instagram</a>
+____________________________________________________________________________________________________________________
+        [***] LINKING IMAGE:-
+                 (*) <img src="link of image or path in PC" alt="text appers when the image not avilable"
+____________________________________________________________________________________________________________________
+        [***] LISTS:-
+                (1) <ul> <!-- Unordered List -->
+                        <li>HTML</li>
+                        <li>CSS</li> <!-- List Item -->
+                        <li>JS</li>
+                    </ul>   
+                    (**) <ul> inside another <ul> (Nested Unorered List)    
+                            <ul>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>
+                                    JS  
+                                        <ul>
+                                            <li>angular</li>
+                                            <li>reactJS</il>
+                                            <li>VueJS</li>
+                                        </ul>
+                                </li>
+                            </ul>
+
+                (*) <ol> <!-- ordered List -->
+                        <li>HTML</li>
+                        <li>CSS</li> <!-- List Item -->
+                        <li>JS</li>
+                    </ol>
+
+                -> Attributes used in <ol>
+                1- <ol reversed> <!-- Reverse the order of numbers -->
+                2- <ol start"any num"> <!-- Strat counting from the number you want -->
+                and notice we can do that not just from <ol> but from <li> either and it will be like:
+                <li value="any num">
+                3- <ol type="A or a or 1 or I"> <!-- Select the ordering type you want -->
+
+                (4) <dl> <!-- description list -->
+                        <dt>HTML</dt> <!-- The Term -->
+                        <dd>Web language</dd> <!-- The description -->
+                        <dd>Basic language</dd> <!-- The description -->
+                        <dt>CSS</dt>
+                        <dd>Visaul language</dd>
+                        <dd>Secondery language</dd>
+                    <dl>    
+____________________________________________________________________________________________________________________
+            [***] TABLES:-
+                    <table>
+                        <caption>Marks Table</caption> <-- This is the title of the table or what it's about -->
+                        <thead> <!-- This is table head -->
+                            <tr> <!-- This is table row -->
+                                <td>First</td> <!-- This is table data cell -->
+                                <th>Last</th> <!-- This <th> element used to make the font BOLD and we can use it at any position 
+                                replacing the <td> element, but it's better to use it than the <td> element in the <thead> element -->
+                                <td>Marks</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Osama</td>
+                                <td>Mohammed</td>
+                                <td>40</td>
+                            </tr>
+                            <tr>
+                                <td>Ahmed</td>
+                                <td>Hossam</td>
+                                <td>30</td>
+                            </tr>
+                            <tr>
+                                <td>Hager</td>                       
+                                <td>Salma</td>
+                                <td>60</td>
+                            </tr>
+                            <tr>
+                                <td>Kareem</td>
+                                <td>Radwa</td>
+                                <td>20</td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td>One</td>
+                                <td>Two</td>
+                                <td>Three</td>
+                            </tr>
+                        </tfoot>
+                </table>
+
+                -> "Note 1": <table style="width: 100%", border="1"> <!-- This additional width and border used to select the
+                width and border of the WHOLE table -->
+
+                -> "Note 2": <tr style="height:40px"> <!-- This code used to select the hight of the row -->
+    
+                -> "Note 3": We can put the <tfoot> element directly after <table> element and it'll still be in his place because of 
+                the right building of table components (<thead>, <tbody>) and that's the use of the <thead> & <tbody> & <tfoot>
+                elements and so we can remove them all and just leave the <tr> & <td> elements but now you must put them under each
+                other or what you put first will come first and what you put last will come last and so on.
+
+                -> "Note 4": If you want to to merge two column (عمود) cells "and it usaually used in the <tfoot> part" then we type:
+                <td colspan="2">Name of merged cell</td> and we remove the whole line of the deleted cell which is the next <td>
+                in the same <tr> and the script will be:
+                <tr>
+                    <td colspan="2">Name of merged cells</td>
+                    <td>Value of merged cells</td>
+                </tr>
+                and if we want to type only one cell taking the 3 cells space we type:
+                <td colspan="3">Name of merged cell</td>
+                and so on you can do this with no matter how many cells.
+
+                 -> "Note 5": If you want to to merge two row (صف) cells then we type:
+                <td rowspan="2">Name of merged cells</td> and we remove the whole line of the deleted cell which is the same <td> in
+                the next <tr> 
+                and the script will be:
+                <tr>
+                    <td rowspan="2">Name of merged cell</td>
+                    <td>Value 1</td>
+                </tr>
+                <tr>
+                    <td>Value 2</td>
+                    <td>Value 3</td>
+                and if we want to type only one cell taking the 3 cells space we type:
+                <td colspan="3">Name of merged cell</td>
+                and so on you can do this with no matter how many cells.
+                , notice that the second row is just a complete to the first one.
+____________________________________________________________________________________________________________________
+            [***] SEPERATE TAGS:-
+                (*) <span>any word</span> <!-- The span tag used to seperate the selected text so you can deal with it seperately 
+                or adjust it with CSS.
+
+                (*) <p>First<br>second<br>third</p> <!-- <br> tag is a shortage of break and it's used for making the text after it 
+                in a new line.
+
+                (*) <hr> <!-- hr is a shortage of Horizontal Rule and it's used to make a line between elements -->
+____________________________________________________________________________________________________________________
+            [***] DIV TAG:-
+                (*) <div> <!-- Very common tag used to put code inside to deal with it as a block of code & you can put 
+                    div inside another div like nested div or more than one but you make them different by the class Attribute -->
+                    EX1:<div>
+                         <h1>Book Title</h1>
+                         <p>Book Discription</p>
+                         <span>Book Price</span>
+                        </div>
+
+                    EX2: <div class="Romantic">
+                             <div class="Book1">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                            <div class="Book2">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                            <div class="Book3">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="Magic">
+                            <div class="Book1">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                            <div class="Book2">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                            <div class="Book3">
+                                <h3>Book Title</h3>
+                                <p>Book Discription</p>
+                                <span>Book Price</span>
+                            </div>
+                        </div>
+____________________________________________________________________________________________________________________
+            [***] ENTITIES:- 
+                    These are special codes for special symbols like math, science or the HTML Tags itself
+                    EX: if you want to type <p> as text then the code will be: &lt;p&gt;
+                    and there are many many entities so if you want to type any of it in your site like © or ® or 
+                    any thing just google html entities list and get what you want.
+____________________________________________________________________________________________________________________
+            [***] SEMANTIC ELEMENTS:-
+                    These're elements like <div> element but more accurate and express its meaning and you can give
+                    them classes and attributes either just like the div.
+                    (1) <header></header> <!-- This is used for the head of the website -->
+                    (2) <nav></nav> <!-- This is used for the navigation links that user use to handle the website -->
+                    (3) <section></section> <!-- This is used for the content of the website and you can put section inside another one -->
+                    (4) <aside></aside> <!-- This is used for the part on the side of the website -->
+                    (5) <footer></footer> <!-- This is used for the below part of the website -->
+                    (6) <article></article> <!-- This is used inside the section tag and it's used to put articles inside -->
+                    (7) <figure></figure> <!-- This is used to put an image and its caption together so you can handle them with CSS -->
+                    (8) <figcaption></figcaption> <This is used inside the figure tag and we put the caption of the photo inside it -->
+____________________________________________________________________________________________________________________
+            [***] Audio:-
+                    There're two ways to type the audio tag :
+                    (1) <audio src="the source of the audio either a link or on the pc"> and this way is not common or used much
+                    (2) <audio>
+                            <source src="the source of the audio" type="MIME type of the audio">
+                        </audio>
+                (**) audio tag attributes:-
+                    1- <audio controls> <!-- This attribute is used for the control of the audio file and it's a must to play the audio -->
+                    2- <audio autoplay> <!-- This attribut is used when you want the audio to play directly after openning the website -->
+                    Note on 2: This feature doesn't work on chrome but work on edge
+                    3- <audio loop> <!-- This attribute is used if you want the audio to play automaticlly after it ends -->
+                    4- <audio muted> <!-- This attribut is used if you want the audio to be muted -->
+                    Note on ALL: you can use all of this attributes together and not just one.
+
+                    EX:
+                        <audio controls autoplay loop>
+                            <source src="media/one_way_ticket.mp3" type="audio/mpeg">
+                            <source src="media/one_way_ticket.ogg" type="audio/ogg">
+                            <source src="media/one_way_ticket.wav" type="audio/wav"> <!-- we used more than a type so if the browser of the user doesn't 
+                            support one of them it maybe support another but don't worry all browsers support mp3 so it'll be enough -->
+                            Your Browser Does Not Support Audio Tags. <!-- this scentence is shown if the browser of the user does not support any of audio
+                            types available in the website -->
+                        </audio>
+____________________________________________________________________________________________________________________
+            [***] Video:-
+                    Same as audio there're two ways to type the audio tag :
+                    (1) <video src="the source of the video either a link or on the pc"> and this way is not common or used much
+                    (2) <video>
+                            <source src="the source of the video" type="MIME type of the video">
+                        </video>
+                (**) video tag attributes:-
+                    1- <video controls> <!-- This attribute is used for the control of the video file and it's a must to play the video -->
+                    2- <video autoplay> <!-- This attribut is used when you want the video to play directly after openning the website -->
+                    Note on 2: This feature doesn't work on chrome but work on edge.
+                    3- <video loop> <!-- This attribute is used if you want the video to play automaticlly after it ends -->
+                    4- <video muted> <!-- This attribut is used if you want the video to be muted -->
+                    Note on ALL: you can use all of this attributes together and not just one.
+                    5- <video width="" hight=""> <!-- This attribute used to control the dimentions of the video -->
+                    6- <video poster="the source of the image"> <!-- This attribute is used to show the poster of the video 
+                    while the video is loading -->
+
+                    (*) <track> tag:
+                            This tag is used for the blind or deaf people or just to show subtitles on the video played and it's used 
+                            inside the video tag.
+                        -> track tag form:
+                        <track src="the source of the subtitles file" kind="subtitles" srclang="en or it or ar or any language shortcut="English or Italian or Arabic or any language">
+                    EX:
+                        <video controls width="600" height="400" autoplay loop poster="imgs/home/cover-speed-website.png">
+                            <source src="media/ghosts.mp4" type="video/mp4">
+                            <source src="media/ghosts.ogg" type="video/ogg">
+                            Your Browser Does Not Support Video Tags.
+                            <track src="my_file_en.vtt" kind="subtitles" srclang="en" label="English">
+                            <track src="my_file_it.vtt" kind="subtitles" srclang="it" label="Italian">
+                        </video>
+____________________________________________________________________________________________________________________
+            [***] Form:-
+                    <form>
+                        <div> <!-- We used div so if we want to deal with the fields seperately -->
+                            <label>Username</label> <!-- Typed before the input tag to give it a title -->
+                            <input type="text"> <!-- input type is text meaning it'll appear to the user -->
+                        </div>
+                        <br> <!-- We used break to make a space between fields -->
+                        <div>
+                            <label>Password</label>
+                            <input type="password"> <!-- The type is password so it'll be hidden as dots for the user -->
+                         </div>
+                         <br>
+                         <div>
+                         <label>Email</label>
+                         <input type="email"> <!-- The type is email so it won't accept the input untill it's a valid email -->
+                         </div>
+                        <input type="submit"> <!-- The type is submit and this is the button which send the data to the server -->
+                    </form>
+
+                (**) Input tag types:-
+                    (1) <input type="text"> <!-- input type is text meaning it'll appear to the user -->
+
+                    (2) <input type="password"> <!-- The type is password so it'll be hidden as dots for the user -->
+
+                    (3) <input type="email"> <!-- The type is email so it won't accept the input untill it's a valid email -->
+
+                    (4) <input type="submit"> <!-- The type is submit and this is the button which send the data to the server -->
+
+                    (5) <input type="reset"> <!-- The type is reset and this is the button which clear all so you can write it again -->
+
+                    (6) <input type="hidden"> <!-- The type is hidden and and it's used if there's data you don't want show to the user
+                        like encribtion or something else -->
+
+                    (7) <input type="color"> <!-- The type is color and this is type is rarely used and it used for selecting color and send it -->
+
+                    (8) <input type="range" min="0" max="100" step="25" value="50"> <!-- The type range will show a line you can drag to right or left
+                        the min is the intial value of the line, max is the final value, step is the move of the line and value is the place which the
+                        line will be standing on --> 
+
+                    (9) <input type="number" min="10" max="100" step="10"> <!-- The type number will create a numbers field which you can type
+                        in the number you want, min is the least num you can type, max is the greatest num you can type and step is the jumb of the next number
+                        notice that you can remove any of min,max and step or add what you want of them it's up to you -->
+                   
+                    (10) <input type="radio"> <!-- Radio type used for selecting just one option of many -->
+                        EX: <div>
+                                <input id="win" type="radio" name="os" value="Windows" checked />
+                                <label for="win">Windows</label> <!-- Notice that the label is after the input because you want the title to be after the
+                                field not before -->
+                            </div>
+                            <div>
+                                <input id="lin" type="radio" name="os" value="Linux" />
+                                <label for="lin">Linux</label>
+                            </div>
+                            <div>
+                                <input id="mac" type="radio" name="os" value="Macintosh" />
+                                <label for="mac">Mac</label>
+                            </div>
+                        NOTE 1: id="win" & for="win" is used to link the label of the field with the input field so when you click on the name of the field 
+                                the field will be active to write in.
+                        NOTE 2: checked attribute used when you want a field to be chosen once you enter the page.
+                        NOTE 3: The name plays very very important role through linking all choices together.
+
+                    (11) <input type="checkbox"> <!-- Checkbox type used for selecting many options of many -->
+                         EX: <div>
+                                <input id="win" type="checkbox" name="os" value="Windows" checked />
+                                <label for="win">Windows</label>
+                            </div>
+                            <div>
+                                <input id="lin" type="checkbox" name="os" value="Linux" />
+                                <label for="lin">Linux</label>
+                            </div>
+                            <div>
+                                <input id="mac" type="checkbox" name="os" value="Mac" />
+                                <label for="mac">Mac</label>
+                            </div>
+                     
+                    (12) <input type="file"> <!-- file type is used for selecting a file from the computer and upload it -->
+
+                    (13) <input type="search"> <!-- search type is used for searching for a file in the page -->
+
+                    (14) <input type="url"> <!-- url type is used for inserting a URL in the page -->
+
+                    (15) <input type="date"> <!-- date type is used for selecting the date -->
+
+                    (16) <input type="month"> <!-- date type is used for selecting the month -->
+
+                    (17) <input type="time"> <!-- date type is used for selecting the time -->
+
+                (**) Input tag attributes:-
+                    (1) <input required> <!-- The page data won't send until this field is filled -->
+
+                    (2) <input placeholder="What you want the user to type"> <!-- It'll show the user what to write in the input field by gray font like
+                        when you enter an email it tells you type example@gmail.com -->
+
+                    (3) <input value="The old value of the field"> <!-- This saves the old values until the user change it or send it as it is
+                        or we use it for changing the names of reset and submit input types -->
+
+                    (4) <input checked> <!-- used in the radio and checkbox types and it make the field chosen once you enter the page -->
+
+                    (5) <input readonly> <!-- readonly attribute used to only read the data and send it to the server but can't change it -->
+                        EX: <input type="password" required placeholder readonly>
+
+                    (6) <input disabled> <!-- disabled attribute make the field gray and used to read the data but you can't send it to the server nor change it -->
+                        EX: <input type="password" required placeholder disabled>
+                        
+                    (7) <input autofocus> <!-- autofocus attribute used to make the field active to write in once the user enters the page -->
+
+                    (8) <input minlength=""> <!-- minlength attribute used to make the user enter a specefic number of characters and can't write less, This
+                        attribute usaually used in passwords -->
+
+                    (9) <input maxlength=""> <!-- maxlength attribute used to make the user enter a specefic number of characters and can't write more, This
+                        attribute usaually used in passwords and articles -->
+                        EX: <input type="password" required placeholder minlength="5" maxlength="10">
+                    
+                    (*) Attributes with form & input but special with the Backend part:
+                        (1) <form action="The destination which the data will go to"> <!-- This is a form attribute use to locate the destination for the
+                            data like: anything.php and if you left it empty it'll send the data to the page itself -->
+
+                        (2) <form method="dialog or GET or POST"> <!-- This is the part special with the data shown in the whole page link above the page 
+                            when you send the data -->
+                            --> if you choose GET the data will be exposed in the link and that's used in the normal data, but if you choose POST the data
+                            will be hidden in the link and this is more secure for the private data.
+
+                        (3) <input name="the name of the data field shown to the backend engineer">
+
+                        (4) <form novalidate> <!-- novalidate is used for testing the info of the page without confirming that it's valid or not -->
+
+                        (5) <form target="_blank"> <!-- like the openning of the link in a new page, in the form it'll open the page after sending data in a new page -->
+
+
+                    
+                    EX: 
+                        <form action="" method="POST">
+                            <div>
+                                <label>Sign In</label>
+                                <input type="text" required placeholder="Username" name="user">
+                            </div>
+                            <br>
+                            <div>
+                                <label>Password</label>
+                                <input type="password" required placeholder="Password" name="password">
+                            </div>
+                            <br>
+                            <div>
+                                <label>Email</label>
+                                <input type="email" required placeholder="example@gmail.com" value="Old email" name="email">
+                            </div>
+                            <input type="submit" value="Save">
+                        </form>
+
+                (*) Select:-
+                        <label for="B">Choose Book:</label>
+                        <select id="B" name="Book">
+                            <optgroup label="Romantic Books"> <!-- The optgroup is optional you can write it or not it's useful when you want to make 
+                            sections in the list but if you don't need that then no use for you to write it -->
+                                <option value="B1">Book 1</option> <!-- The value="" is the name of data sent to the server -->
+                                <option value="B2">Book 2</option>
+                                <option value="B3">Book 3</option>
+                            </optgroup>
+                            <optgroup label="Police Books">
+                                <option value="B4" selected>Book 4</option>
+                                <option value="B5">Book 5</option>
+                                <option value="B6">Book 6</option>
+                            </optgroup>
+                        </select>
+                    NOTE: you can use all of the input attributes in the select tag.
+                
+                (*) Data List:-
+                        <label for="programming field">Programming</label>
+                        <input list="programming" name="prog" id="programming field"> <!-- list="programming is a name for the list -->
+                            <datalist id="programming"> <!-- id="programming links the name of the list with its data -->
+                                <option value="Python">
+                                <option value="PHP">
+                                <option value="C#">
+                                <option value="C">
+                                <option value="C++">
+                                <option value="Scala">
+                            </datalist>
+                    NOTE: Data List is just like Select but the defference is that the data list allows you to search in its field.
+                    
+                (*) Textarea:-
+                        <textarea name="subject" cols="no of columns" rows="no of rows" placeholder="Test Text">The Text</textarea> 
+                        <!-- used to type text in a specefic area & don't forget that name is the name of data sent to the server -->
+                        NOTE: you can use all input attributes in the textarea tag.
+____________________________________________________________________________________________________________________
+            [***] SEPERATE TAGS:-
+                    (*) <q>Quote</q> <!-- q tag is used inserting a quote in the page & it's an inline element -->
+
+                    (*) <blockquote>Long Quote</blockquote> <!-- blockquote tag is used inserting a long quote in the page & it's a block element -->
+
+                    (*) <button>Click</button> <!-- used for inserting a button in the page -->
+
+                    (*) <wbr> <!-- wbr stands for Word Break Opportunity and it's used for dividing a long link or paragraph from specefic positions if 
+                        there was no place in the same line but if there was a place it won't divide it -->
+                        EX: https://www.youtube.com/<wbr>playlist?list=PLM_i0obccy3swdHfFh1FrLEVVFMp8<wbr>-5Jc&fbclid=IwAR2eP038MSFNJSmNCssdpaBm3KofEJUG9e<wbr>jR95GGGm9AKB0StOIPpLA6fgc
+                    
+                    (*) <bdi>word</bdi> <!-- used when there's an interact between arabic words & english words so this tag isolates the different word from the 
+                        rest of the words so it'll be appear arranged -->
+                        EX: <p><bdi>السلام</bdi> 2 Welcome</p>
+
+                    (*) <code></code> <!-- This is used to put any programming language in it -->
+                        EX:
+                            <code>
+                                ar x = 10;
+                                var y = 20;
+                                console.log(x + y);
+                            </code>
+                        NOTE: This code won't open like this it will be on the same line so you'll adjust it with CSS or look to the next tag.
+
+                    (*) <pre></pre> <!-- This tag is used to save the spaces and every thing like you type exactly -->
+                        EX:
+                            <pre>
+                                <code>
+                                    ar x = 10;
+                                    var y = 20;
+                                    console.log(x + y);
+                                </code>
+                            </pre>
+                        NOTE: The code will appear just exactly like this with the same spaces as you type and the pre tag is not used just for code
+                              but any text either :)
+
+                    (*) <iframe src="The site link" width="" height="" frameborder="0"></iframe> <!-- This tag is used to make an entire site appear in your page
+                        and this tag is not used much -->
+                        EX: <iframe src="https://elzero.org/" width="800" height="400"></iframe>
+        </body>
+</html>
