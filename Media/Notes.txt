@@ -1,0 +1,17 @@
+- HTML: HyperText Markup Language.
+
+- (1) <meta charset="ISO-8859-1" />: Browser doesn't support arabic.
+- (2) <meta charset="UTF-8" />: Browser support arabic & other languages.
+
+- (') = (") = No Quote. if they are on one word but if more than one word like aline of words
+then (') = (") only and No Quote will take the first word of the line and consider it as the value
+of the variable and will ignore the rest of the line.
+
+- (1) "/" = Going in.
+  (2) "../" = Going out.
+
+- To take an image of the placeholder website:
+<img src="https://via.placeholder.com/Image Size/Image Size Color/Txt Color in image?text=Txt1+Txt2+Txt3" alt="Image">
+
+- (Inline Element): means that the element typed on the same line.
+  (Block Element): means that the element typed on another line.
