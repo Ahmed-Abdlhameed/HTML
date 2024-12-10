@@ -14,6 +14,9 @@ This repository contains a collection of notes, assignments and practice tasks t
    - [28-30: Forms (Part Two)](#28-30-forms-part-two)
    - [31-34: Forms (Part Three)](#31-34-forms-part-three)
 2. [Media](#media)
+3. [How to Use](#how-to-use)
+4. [Contributions](#contributions)
+5. [License](#license)
 
 ---
 
