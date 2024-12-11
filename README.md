@@ -4,7 +4,7 @@ This repository contains a collection of notes, assignments and practice tasks t
 
 ---
 
-## Table of Contents
+## Table of contents
 
 1. [Assignments](#assignments)
    - [11 - 14: Links, Images, and Lists](#11---14-links-images-and-lists)
