@@ -7,7 +7,7 @@ This repository contains a collection of notes, assignments and practice tasks t
 ## Table of contents
 
 1. [Assignments](#assignments)
-   - [11 - 14: Links, Images, and Lists](#11---14-links-images-and-lists)
+   - [11 - 14: Links, Images and Lists](#11---14-links-images-and-lists)
    - [15 - 18: Tables and Divs](#15---18-tables-and-divs)
    - [19 - 23: Audio and Video](#19---23-audio-and-video)
    - [24 - 27: Forms (part one)](#24---27-forms-part-one)
@@ -22,48 +22,55 @@ This repository contains a collection of notes, assignments and practice tasks t
 
 ## Assignments
 
-### 11 - 14: Links, Images, and Lists
+### 11 - 14: Links, Images and Lists
+
 - **Purpose**: This task focuses on working with hyperlinks, embedding images, and creating structured lists.
 - **Files**:
-  - [Assignment Solution](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/index.html)
-  - [Assignment Question](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG)
+  - [Assignment Solution](<Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/index.html>)
+  - [Assignment Question](<Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG>)
 
 ### 15 - 18: Tables and Divs
+
 - **Purpose**: This task introduces creating HTML tables for tabular data and using <div> for layout structuring.
 - **Files**:
-  - [Assignment Solution](Assignments/15%20-%2018%20(Table%20&%20Div)/index.html)
-  - [Assignment Question](Assignments/15%20-%2018%20(Table%20&%20Div)/Question.PNG)
+  - [Assignment Solution](<Assignments/15%20-%2018%20(Table%20&%20Div)/index.html>)
+  - [Assignment Question](<Assignments/15%20-%2018%20(Table%20&%20Div)/Question.PNG>)
 
 ### 19 - 23: Audio and Video
+
 - **Purpose**: Learn to embed and control multimedia elements such as audio and video within a webpage.
 - **Files**:
-  - [Assignment Solution](Assignments/19%20-%2023%20(Audio%20&%20Video)/index.html)
-  - [Assignment Question](Assignments/19%20-%2023%20(Audio%20&%20Video)/Questions.jpg)
+  - [Assignment Solution](<Assignments/19%20-%2023%20(Audio%20&%20Video)/index.html>)
+  - [Assignment Question](<Assignments/19%20-%2023%20(Audio%20&%20Video)/Questions.jpg>)
 
 ### 24 - 27: Forms (part one)
+
 - **Purpose**: This task focuses on creating forms with HTML for user input, including text fields with all its types along with submit buttons.
 - **Files**:
-  - [Assignment Solution](Assignments/24%20-%2027%20(Form%20part%20one)/index.html)
-  - [Assignment Question](Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG)
+  - [Assignment Solution](<Assignments/24%20-%2027%20(Form%20part%20one)/index.html>)
+  - [Assignment Question](<Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG>)
 
 ### 28 - 30: Forms (part two)
+
 - **Purpose**: Building upon Part One, this part introduces more form elements such as dropdowns and textareas.
 - **Files**:
-  - [Assignment Solution](Assignments/28%20-%2030%20(Form%20part%20two)/index.html)
-  - [Assignment Question](Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg)
+  - [Assignment Solution](<Assignments/28%20-%2030%20(Form%20part%20two)/index.html>)
+  - [Assignment Question](<Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg>)
 
 ### 31 - 34: Forms (part three)
-- **Purpose**:  Building upon Part Two, this part introduces more form elements such as Date pickers , Uploading from PC, Code areas and external websites snippets.
+
+- **Purpose**: Building upon Part Two, this part introduces more form elements such as Date pickers , Uploading from PC, Code areas and external websites snippets.
 - **Files**:
-  - [Assignment Solution (1)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(1).html)
-  - [Assignment Solution (2)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(2).html)
-  - [Assignment Question](Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg)
+  - [Assignment Solution (1)](<Assignments/31%20-%2034%20(Form%20part%20three)/index%20(1).html>)
+  - [Assignment Solution (2)](<Assignments/31%20-%2034%20(Form%20part%20three)/index%20(2).html>)
+  - [Assignment Question](<Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg>)
 
 ---
 
 ## Media
 
 The **Media** folder contains supplementary resources and notes for more topics:
+
 - [Basic building of any website using `<div>`](Media/Basic%20building%20of%20any%20website%20using%20div.html)
 - [Basic building of any website using semantic elements](Media/Basic%20building%20of%20any%20website%20using%20semantic%20elements.html)
 - [Common MIME Types - MDN guide](Media/Common%20MIME%20types%20-%20HTTP%20-%20MDN.pdf)
