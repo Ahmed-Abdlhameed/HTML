@@ -7,7 +7,7 @@ This repository contains a collection of notes, assignments and practice tasks t
 ## Table of contents
 
 1. [Assignments](#assignments)
-   - [11 - 14: Links, Images, and Lists](#11---14-links-images-and-lists)
+   - [11 - 14: Links, Images and Lists](#11---14-links-images-and-lists)
    - [15 - 18: Tables and Divs](#15---18-tables-and-divs)
    - [19 - 23: Audio and Video](#19---23-audio-and-video)
    - [24 - 27: Forms (part one)](#24---27-forms-part-one)
@@ -22,7 +22,7 @@ This repository contains a collection of notes, assignments and practice tasks t
 
 ## Assignments
 
-### 11 - 14: Links, Images, and Lists
+### 11 - 14: Links, Images and Lists
 - **Purpose**: This task focuses on working with hyperlinks, embedding images, and creating structured lists.
 - **Files**:
   - [Assignment Question](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG)
