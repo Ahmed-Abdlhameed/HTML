@@ -23,47 +23,80 @@ This repository contains a collection of notes, assignments and practice tasks t
 ## Assignments
 
 ### 11 - 14: Links, Images and Lists
+<<<<<<< HEAD
 
 - **Purpose**: This task focuses on working with hyperlinks, embedding images, and creating structured lists.
 - **Files**:
   - [Assignment Solution](<Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/index.html>)
   - [Assignment Question](<Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG>)
+=======
+- **Purpose**: This task focuses on working with hyperlinks, embedding images, and creating structured lists.
+- **Files**:
+  - [Assignment Question](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG)
+  - [Assignment Solution](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/index.html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ### 15 - 18: Tables and Divs
 
 - **Purpose**: This task introduces creating HTML tables for tabular data and using <div> for layout structuring.
 - **Files**:
+<<<<<<< HEAD
   - [Assignment Solution](<Assignments/15%20-%2018%20(Table%20&%20Div)/index.html>)
   - [Assignment Question](<Assignments/15%20-%2018%20(Table%20&%20Div)/Question.PNG>)
+=======
+  - [Assignment Question](Assignments/15%20-%2018%20(Table%20&%20Div)/Question.PNG)
+  - [Assignment Solution](Assignments/15%20-%2018%20(Table%20&%20Div)/index.html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ### 19 - 23: Audio and Video
 
 - **Purpose**: Learn to embed and control multimedia elements such as audio and video within a webpage.
 - **Files**:
+<<<<<<< HEAD
   - [Assignment Solution](<Assignments/19%20-%2023%20(Audio%20&%20Video)/index.html>)
   - [Assignment Question](<Assignments/19%20-%2023%20(Audio%20&%20Video)/Questions.jpg>)
+=======
+  - [Assignment Question](Assignments/19%20-%2023%20(Audio%20&%20Video)/Questions.jpg)
+  - [Assignment Solution](Assignments/19%20-%2023%20(Audio%20&%20Video)/index.html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ### 24 - 27: Forms (part one)
 
 - **Purpose**: This task focuses on creating forms with HTML for user input, including text fields with all its types along with submit buttons.
 - **Files**:
+<<<<<<< HEAD
   - [Assignment Solution](<Assignments/24%20-%2027%20(Form%20part%20one)/index.html>)
   - [Assignment Question](<Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG>)
+=======
+  - [Assignment Question](Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG)
+  - [Assignment Solution](Assignments/24%20-%2027%20(Form%20part%20one)/index.html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ### 28 - 30: Forms (part two)
 
 - **Purpose**: Building upon Part One, this part introduces more form elements such as dropdowns and textareas.
 - **Files**:
+<<<<<<< HEAD
   - [Assignment Solution](<Assignments/28%20-%2030%20(Form%20part%20two)/index.html>)
   - [Assignment Question](<Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg>)
+=======
+  - [Assignment Question](Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg)
+  - [Assignment Solution](Assignments/28%20-%2030%20(Form%20part%20two)/index.html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ### 31 - 34: Forms (part three)
 
 - **Purpose**: Building upon Part Two, this part introduces more form elements such as Date pickers , Uploading from PC, Code areas and external websites snippets.
 - **Files**:
+<<<<<<< HEAD
   - [Assignment Solution (1)](<Assignments/31%20-%2034%20(Form%20part%20three)/index%20(1).html>)
   - [Assignment Solution (2)](<Assignments/31%20-%2034%20(Form%20part%20three)/index%20(2).html>)
   - [Assignment Question](<Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg>)
+=======
+  - [Assignment Question](Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg)
+  - [Assignment Solution (1)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(1).html)
+  - [Assignment Solution (2)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(2).html)
+>>>>>>> 81cbc9294cbf486766508b760057416fb8c1f029
 
 ---
 
