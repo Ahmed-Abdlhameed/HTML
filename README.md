@@ -67,7 +67,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 - [Basic building of any website using `<div>`](Media/Basic%20building%20of%20any%20website%20using%20div.html)
 - [Basic building of any website using semantic elements](Media/Basic%20building%20of%20any%20website%20using%20semantic%20elements.html)
 - [Common MIME Types - MDN guide](Media/Common%20MIME%20types%20-%20HTTP%20-%20MDN.pdf)
-- [`<div>` vs Semantic Elements](Media/div%20VS%20semantic%20elements.png)
+- [`<div>` V.S. Semantic Elements](Media/div%20VS%20semantic%20elements.png)
 - [HTML Entities reference](Media/HTML%20Entities.pdf)
 - [HTML overview](Media/HTML.txt)
 - [Notes](Media/Notes.txt)
