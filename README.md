@@ -25,8 +25,8 @@ This repository contains a collection of notes, assignments and practice tasks t
 ### 11 - 14: Links, Images and Lists
 - **Purpose**: This task focuses on working with hyperlinks, embedding images, and creating structured lists.
 - **Files**:
-  - [Assignment Question](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/Question.PNG)
-  - [Assignment Solution](Assignments/11%20-%2014%20(Link%20-%20Image%20&%20List)/index.html)
+  - [Assignment Question](Assignments/11%20-%2014%20(Link%2C%20Image%20&%20List)/Question.PNG)
+  - [Assignment Solution](Assignments/11%20-%2014%20(Link%2C%20Image%20&%20List)/index.html)
 
 ### 15 - 18: Tables and Divs
 - **Purpose**: This task introduces creating HTML tables for tabular data and using <div> for layout structuring.
