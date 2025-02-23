@@ -35,7 +35,6 @@ This repository contains a collection of notes, assignments and practice tasks t
   - [Assignment Question](Assignments/15%20-%2018%20(Table%20&%20Div)/Question.PNG)
   - [Assignment Solution](Assignments/15%20-%2018%20(Table%20&%20Div)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/vEYKdQz)
-  - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/vEYKdQz)
 
 ### 19 - 23: Audio and Video
 - **Purpose**: Learn to embed and control multimedia elements such as audio and video within a webpage.
