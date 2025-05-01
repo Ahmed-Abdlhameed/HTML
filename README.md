@@ -46,23 +46,23 @@ This repository contains a collection of notes, assignments and practice tasks t
 ### 24 - 27: Forms (Part One)
 - **Purpose**: This task focuses on creating forms with HTML for user input, including text fields with all its types along with submit buttons.
 - **Files**:
-  - [Assignment Question](Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG)
-  - [Assignment Solution](Assignments/24%20-%2027%20(Form%20part%20one)/index.html)
+  - [Assignment Question](Assignments/24%20-%2027%20(Form%20Part%20One)/Question.PNG)
+  - [Assignment Solution](Assignments/24%20-%2027%20(Form%20Part%20One)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/raNLJPj)
 
 ### 28 - 30: Forms (Part Two)
 - **Purpose**: Building upon Part One, this part introduces more form elements such as dropdowns and textareas.
 - **Files**:
-  - [Assignment Question](Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg)
-  - [Assignment Solution](Assignments/28%20-%2030%20(Form%20part%20two)/index.html)
+  - [Assignment Question](Assignments/28%20-%2030%20(Form%20Part%20Two)/Questions.jpg)
+  - [Assignment Solution](Assignments/28%20-%2030%20(Form%20Part%20Two)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/qEBNxgp)
 
 ### 31 - 34: Forms (Part Three)
 - **Purpose**:  Building upon Part Two, this part introduces more form elements such as Date pickers , Uploading from PC, Code areas and external websites snippets.
 - **Files**:
-  - [Assignment Question](Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg)
-  - [Assignment Solution (1)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(1).html)
-  - [Assignment Solution (2)](Assignments/31%20-%2034%20(Form%20part%20three)/index%20(2).html)
+  - [Assignment Question](Assignments/31%20-%2034%20(Form%20Part%20Three)/Questions.jpg)
+  - [Assignment Solution (1)](Assignments/31%20-%2034%20(Form%20Part%20Three)/index%20(1).html)
+  - [Assignment Solution (2)](Assignments/31%20-%2034%20(Form%20Part%20Three)/index%20(2).html)
   - [Live Preview (1)](https://codepen.io/Ahmed-Abdelhameed/full/GgRqQez)
   - [Live Preview (2)](https://codepen.io/Ahmed-Abdelhameed/full/qEBNxwx)
 
