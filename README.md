@@ -1,20 +1,20 @@
-# Summary of HTML markup language topics, notes & assignments:
+# Summary Of HTML Markup Language Topics, Notes & Assignments:
 
 This repository contains a collection of notes, assignments and practice tasks that I’ve completed to enhance my understanding of HTML markup language. Each folder represents a different set of topics, showcasing how I approached and learned each concept.
 
 ---
 
-## Table of contents
+## Table Of Contents
 
 1. [Assignments](#assignments)
    - [11 - 14: Links, Images and Lists](#11---14-links-images-and-lists)
    - [15 - 18: Tables and Divs](#15---18-tables-and-divs)
    - [19 - 23: Audio and Video](#19---23-audio-and-video)
-   - [24 - 27: Forms (part one)](#24---27-forms-part-one)
-   - [28 - 30: Forms (part two)](#28---30-forms-part-two)
-   - [31 - 34: Forms (part three)](#31---34-forms-part-three)
+   - [24 - 27: Forms (Part One)](#24---27-forms-part-one)
+   - [28 - 30: Forms (Part Two)](#28---30-forms-part-two)
+   - [31 - 34: Forms (Part Three)](#31---34-forms-part-three)
 2. [Media](#media)
-3. [How to use](#how-to-use)
+3. [How To Use](#how-to-use)
 4. [Contributions](#contributions)
 5. [License](#license)
 
@@ -43,21 +43,21 @@ This repository contains a collection of notes, assignments and practice tasks t
   - [Assignment Solution](Assignments/19%20-%2023%20(Audio%20&%20Video)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/vEYKdvz)
 
-### 24 - 27: Forms (part one)
+### 24 - 27: Forms (Part One)
 - **Purpose**: This task focuses on creating forms with HTML for user input, including text fields with all its types along with submit buttons.
 - **Files**:
   - [Assignment Question](Assignments/24%20-%2027%20(Form%20part%20one)/Question.PNG)
   - [Assignment Solution](Assignments/24%20-%2027%20(Form%20part%20one)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/raNLJPj)
 
-### 28 - 30: Forms (part two)
+### 28 - 30: Forms (Part Two)
 - **Purpose**: Building upon Part One, this part introduces more form elements such as dropdowns and textareas.
 - **Files**:
   - [Assignment Question](Assignments/28%20-%2030%20(Form%20part%20two)/Questions.jpg)
   - [Assignment Solution](Assignments/28%20-%2030%20(Form%20part%20two)/index.html)
   - [Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/qEBNxgp)
 
-### 31 - 34: Forms (part three)
+### 31 - 34: Forms (Part Three)
 - **Purpose**:  Building upon Part Two, this part introduces more form elements such as Date pickers , Uploading from PC, Code areas and external websites snippets.
 - **Files**:
   - [Assignment Question](Assignments/31%20-%2034%20(Form%20part%20three)/Questions.jpg)
@@ -71,17 +71,17 @@ This repository contains a collection of notes, assignments and practice tasks t
 ## Media
 
 The **Media** folder contains supplementary resources and notes for more topics:
-- [Basic building of any website using `<div>`](Media/Basic%20building%20of%20any%20website%20using%20div.html)
-- [Basic building of any website using semantic elements](Media/Basic%20building%20of%20any%20website%20using%20semantic%20elements.html)
-- [Common MIME Types - MDN guide](Media/Common%20MIME%20types%20-%20HTTP%20-%20MDN.pdf)
-- [`<div>` V.S. Semantic Elements](Media/div%20VS%20semantic%20elements.png)
-- [HTML Entities reference](Media/HTML%20Entities.pdf)
-- [HTML overview](Media/HTML.txt)
+- [Basic Website Building Using `<div>`](Media/Basic%20Website%20Building%20Using%20Div.html)
+- [Basic Website Building Using Semantic Elements](Media/Basic%20Website%20Building%20Using%20Semantic%20Elements.html)
+- [Common MIME Types - MDN Guide](Media/Common%20MIME%20Types%20-%20HTTP%20-%20MDN.pdf)
+- [`<div>` V.S. Semantic Elements](Media/Div%20VS%20Semantic%20Elements.png)
+- [HTML Entities Reference](Media/HTML%20Entities.pdf)
+- [HTML Overview](Media/HTML.txt)
 - [Notes](Media/Notes.txt)
 
 ---
 
-## How to use
+## How To Use
 
 1. Navigate to assignments folders to review the tasks and its solutions.
 2. Experiment the code in each folder to review the output of the task solution.
