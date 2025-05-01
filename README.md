@@ -85,7 +85,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 
 1. Navigate to assignments folders to review the tasks and its solutions.
 2. Experiment the code in each folder to review the output of the task solution.
-3. You can simply view the live output of the task by visiting the Codepen preview links at the README file.
+3. You can simply view the live output of the task by visiting the Codepen preview link at the README file.
 
 ---
 
