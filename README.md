@@ -91,7 +91,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 
 ## Contributions
 
-Feel free to fork the repository and contribute by adding more assignments or improving the solutions. Pull requests are welcomed!
+Feel free to fork the repository and contribute by adding more assignments or improving the exsiting solutions. Pull requests are welcomed!
 
 ---
 
