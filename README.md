@@ -1,10 +1,10 @@
-# Summary Of HTML Markup Language Topics, Notes & Assignments:
+# Summary of HTML Markup Language Topics, Notes & Assignments:
 
 This repository contains a collection of notes, assignments and practice tasks that I’ve completed to enhance my understanding of HTML markup language. Each folder represents a different set of topics, showcasing how I approached and learned each concept.
 
 ---
 
-## Table Of Contents
+## Table of Contents
 
 1. [Assignments](#assignments)
    - [11 - 14: Links, Images and Lists](#11---14-links-images-and-lists)
@@ -14,7 +14,7 @@ This repository contains a collection of notes, assignments and practice tasks t
    - [28 - 30: Forms (Part Two)](#28---30-forms-part-two)
    - [31 - 34: Forms (Part Three)](#31---34-forms-part-three)
 2. [Media](#media)
-3. [How To Use](#how-to-use)
+3. [How to Use](#how-to-use)
 4. [Contributions](#contributions)
 5. [License](#license)
 
@@ -81,7 +81,7 @@ The **Media** folder contains supplementary resources and notes for more topics:
 
 ---
 
-## How To Use
+## How to Use
 
 1. Navigate to assignments folders to review the tasks and its solutions.
 2. Experiment the code in each folder to review the output of the task solution.
